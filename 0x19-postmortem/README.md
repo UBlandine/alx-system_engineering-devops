@@ -4,9 +4,9 @@ This project contains tasks for learning about writing a postmortem.
 
 ## Tasks To Complete
 
-+ [x] 0. My first postmortem<br/>
++ [x] 0. My first postmorte
 
-_**[Blog_Post.md](Blog_Post.md)**_ contains a blog post that meets the following requirements:
+**_ contains a blog post that meets the following requirements:
   + **INFO:**
     + Using one of the web stack debugging project issue or an outage you have personally face, write a postmortem. Most of you will never have faced an outage, so just get creative and invent your own :)
     + While postmortem format can vary, stick to this one so that you can get properly reviewed by your peers.
@@ -33,3 +33,5 @@ _**[Blog_Post.md](Blog_Post.md)**_ contains a blog post that meets the following
 + [x] 1. Make people want to read your postmortem
   + We are constantly stormed by a quantity of information, it’s tough to get people to read you.
   + Make your post-mortem attractive by adding humour, a pretty diagram or anything that would catch your audience attention.
+
+https://medium.com/@ugirablando/postmortem-ae62a77579fc
